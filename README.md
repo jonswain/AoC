@@ -1,3 +1,3 @@
-# advent_of_code
+# AoC (Advent of Code)
 Solutions to Advent of Code
 https://adventofcode.com
